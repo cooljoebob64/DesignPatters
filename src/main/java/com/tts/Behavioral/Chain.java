@@ -1,5 +1,7 @@
 package com.tts.Behavioral;
 
+// From: https://www.geeksforgeeks.org/chain-responsibility-design-pattern/
+
 public class Chain
 {
     Processor chain;
