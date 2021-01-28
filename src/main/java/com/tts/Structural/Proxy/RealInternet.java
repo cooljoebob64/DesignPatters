@@ -1,5 +1,7 @@
 package com.tts.Structural.Proxy;
 
+// From: https://www.geeksforgeeks.org/proxy-design-pattern/
+
 public class RealInternet implements Internet
 {
     @Override

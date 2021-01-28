@@ -1,5 +1,7 @@
 package com.tts.Structural.Proxy;
 
+// From: https://www.geeksforgeeks.org/proxy-design-pattern/
+
 import java.util.ArrayList;
 import java.util.List;
 
