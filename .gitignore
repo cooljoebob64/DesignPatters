@@ -131,3 +131,29 @@ fabric.properties
 hs_err_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij
+/.idea/.gitignore
+/build.gradle
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/checksums/checksums.lock
+/.gradle/6.7/javaCompile/classAnalysis.bin
+/.idea/compiler.xml
+/.gradle/6.7/executionHistory/executionHistory.bin
+/.gradle/6.7/executionHistory/executionHistory.lock
+/.gradle/6.7/fileHashes/fileHashes.bin
+/.gradle/6.7/fileHashes/fileHashes.lock
+/.gradle/6.7/gc.properties
+/.gradle/configuration-cache/gc.properties
+/.gradle/vcs-1/gc.properties
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/.idea/jarRepositories.xml
+/.gradle/6.7/javaCompile/javaCompile.lock
+/.gradle/6.7/fileChanges/last-build.bin
+/.idea/misc.xml
+/.gradle/buildOutputCleanup/outputFiles.bin
+/settings.gradle
+/build/tmp/compileJava/source-classes-mapping.txt
+/.gradle/6.7/javaCompile/taskHistory.bin
+/.idea/vcs.xml
