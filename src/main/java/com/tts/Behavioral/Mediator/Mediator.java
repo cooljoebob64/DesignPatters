@@ -1,6 +1,4 @@
-package com.tts.Behavioral;
-
-// From: https://www.geeksforgeeks.org/command-pattern/
+package com.tts.Behavioral.Mediator;
 
 class ATCMediator implements IATCMediator
 {
@@ -109,3 +107,4 @@ class MediatorDesignPattern
 
     }
 }
+
